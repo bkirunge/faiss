@@ -15,5 +15,5 @@
   "ignorePaths": [
     ".github/workflows/**"
   ],
-  "gitAuthor": "Renovate Bot <29139614+renovate[bot]@users.noreply.github.com>",
+  "gitAuthor": "Renovate Bot <29139614+renovate[bot]@users.noreply.github.com>"
 }
