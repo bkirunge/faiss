@@ -1,7 +1,7 @@
 {
   "extends": ["config:recommended"],
   "automerge": false,
-  "baseBranchPatterns": ["feature_1"],
+  "baseBranches": ["feature_1"],
   "prCreation": "immediate",
   "labels": ["dependencies", "renovate"],
   "commitMessageTopic": "{{depName}}",
