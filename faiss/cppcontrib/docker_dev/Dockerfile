@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:24.04
 
 RUN apt update && apt install -y python3 python3-pip gcc g++ mc git swig sudo libomp-dev libopenblas-dev wget libgflags-dev
 RUN pip3 install numpy==1.26.4 scipy pytest
