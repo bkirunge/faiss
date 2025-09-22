@@ -12,9 +12,6 @@
     }
   ],
   "forkProcessing": "enabled",
-  "ignorePaths": [
-    ".github/workflows/**"
-  ],
   "branchPrefix": "renovate-feature-1/",
   "gitAuthor": "Renovate Bot <29139614+renovate[bot]@users.noreply.github.com>"
 }
