@@ -11,5 +11,8 @@
       "automerge": false
     }
   ],
-  "forkProcessing": "enabled"
+  "forkProcessing": "enabled",
+  "ignorePaths": [
+    ".github/workflows/**"
+  ]
 }
