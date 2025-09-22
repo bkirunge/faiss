@@ -2,7 +2,7 @@
   "extends": ["config:recommended"],
   "automerge": false,
   "baseBranchPatterns": ["main"],
-  "prCreation": "not-pending",
+  "prCreation": "immediate",
   "labels": ["dependencies", "renovate"],
   "commitMessageTopic": "{{depName}}",
   "packageRules": [
