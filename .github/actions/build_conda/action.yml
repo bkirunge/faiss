@@ -27,7 +27,7 @@ runs:
           echo "shell=pwsh" >> "$GITHUB_OUTPUT"
         fi
     - name: Setup miniconda
-      uses: conda-incubator/setup-miniconda@v3
+      uses: conda-incubator/setup-miniconda@v4
       with:
         python-version: '3.11'
         miniforge-version: latest # ensures conda-forge channel is used.
